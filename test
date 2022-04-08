@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+    <!-- <style>
+        a {text-decoration:none;}
+    </style> -->
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>東海岸景點</title>
+</head>
+<body>
+<header>
+    <h1>東海岸景點</h1>
+    <nav>
+        <ul>
+            <li><a href=html02-07.html>大石鼻山步道</a></li>
+            <li><a href=html02-08.html>親不知子天空步道</a></li>
+            <li><a href=html02-09.htmbl>三仙台</a></li>
+        </ul>
+    </nav>
+</header>
+<div>
+<article>
+    <section>
+        <h3>大石鼻山步道</h3>
+        <h4>登高俯瞰絕美海景</h4>
+        <img src="https://www.eastcoast-nsa.gov.tw/content/images/2019-static/punch-hualien-05.jpg" width="200" height="200">    
+        <p>與磯崎海濱公園相鄰，大石鼻山能說是很親民的登山步道，
+            站在高處鳥瞰蔚藍大海，讓許多人紛紛慕名而來！
+            從山腳沿著樓梯向上，約莫只需要15分鐘就能抵達山頂，
+            轉身後，海天一色壯闊美景，相當療癒。</p>
+        <ul type="square"><li>介紹影片</li></ul>
+        <iframe width="200" height="115" src="https://www.youtube.com/embed/uzlzBIc8mfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+            
+        </iframe>
+    </section>
+</article>
+<aside>
+    景點位置：花蓮縣豐濱鄉龜庵49號，斜對面即為入口
+    <p>步道皆為樓梯一路向上</p>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3653.4152703421755!2d121.54871441498025!3d23.69686008461584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3468abeef626a02f%3A0x8022d5569696b3a0!2z5aSn55-z6by75bGx5q2l6YGT772c6b6c5bq15bGx5q2l6YGT!5e0!3m2!1szh-TW!2stw!4v1648622126904!5m2!1szh-TW!2stw" width="200" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+</aside>
+</div>
+<footer>
+    20220330&copy;By practing.   
+</footer>
+    
+</body>
+</html>
